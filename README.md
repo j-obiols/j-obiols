@@ -1,6 +1,6 @@
 ### Hi, I’m Joana Obiols
 
-I’m currently learning **FULL STACK PHP** at **IT Academy** in Barcelona.  
+I’m currently studying **FULL STACK PHP** at **IT Academy** in Barcelona.  
 
 
 How to reach me:  
