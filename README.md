@@ -2,9 +2,29 @@
 
 </br>
 
-I am currently finishing my studies as a  **FULL STACK PHP** developer at **IT Academy** in Barcelona.  
+I am currently finishing my studies as a  **FULL STACK PHP** developer at **IT Academy** in Barcelona. 
+
+Ready to keep on learning! 
+
 </br>
-> ![php](https://github.com/j-obiols/j-obiols/assets/127688372/a7748a19-c7a3-4187-a846-849c7ca71b10)![mysql - copia](https://github.com/j-obiols/j-obiols/assets/127688372/0bbe80a4-7d6d-4f40-9132-2ade5b9429ed) ![laravel](https://github.com/j-obiols/j-obiols/assets/127688372/a07a92e5-1bf1-41e8-8332-9295a80980bb) ![git - copia](https://github.com/j-obiols/j-obiols/assets/127688372/11cd9ae0-27ca-4a0b-84e9-437e748ec95b) ![java](https://github.com/j-obiols/j-obiols/assets/127688372/e7caaa4e-7bdd-43ef-b28d-1902b3ae71c2) ![html](https://github.com/j-obiols/j-obiols/assets/127688372/68f3cb74-0270-4ce7-95c2-fe520c771b33) ![wordpress](https://github.com/j-obiols/j-obiols/assets/127688372/d95999a9-c1b3-44ce-97df-354ea442c776)
+</br>
+
+> **Languages and tools at this stage:**
+
+</br>
+
+![php](https://github.com/j-obiols/j-obiols/assets/127688372/4edbfc2f-49df-4e26-bac1-cd13b68fe893) ![laravel](https://github.com/j-obiols/j-obiols/assets/127688372/f122842a-0f18-4718-9233-949d96366786) 
+
+
+![mysql](https://github.com/j-obiols/j-obiols/assets/127688372/1bd56ba7-d6d4-4ee7-889d-f1b9f9259784)  ![java](https://github.com/j-obiols/j-obiols/assets/127688372/fef0e0b3-65fe-40ea-abfd-fd142b016224) 
+
+
+![html](https://github.com/j-obiols/j-obiols/assets/127688372/69860ab0-27c2-47f4-b724-3bb81d9abefa)  ![wordpress](https://github.com/j-obiols/j-obiols/assets/127688372/43302ec6-941e-4b1e-9ac2-2fa787dd508d) 
+
+
+![git](https://github.com/j-obiols/j-obiols/assets/127688372/9495e892-636c-4127-b9b2-36958f6887f1)   ![postman](https://github.com/j-obiols/j-obiols/assets/127688372/310e702a-7b45-41b7-b2bd-0252cfb7a13e)
+
+
 </br>
 
 
