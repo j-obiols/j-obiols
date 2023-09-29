@@ -1,6 +1,6 @@
 ## Hi, I'm Joana Obiols 
 
-I am currently finishing my studies as a  **FULL STACK PHP** developer at **IT Academy** in Barcelona.  
+I have recently finished my studies as a  **FULL STACK PHP** developer at **IT Academy** in Barcelona.  
 Ready to start working and to keep on learning! 
 
 </br>
