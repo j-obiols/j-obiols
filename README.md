@@ -1,6 +1,6 @@
 ## Hi, I'm Joana Obiols 
 
-I have recently finished my studies as a  **FULL STACK PHP** developer at **IT Academy** in Barcelona.  
+**FULL STACK PHP** developer (**IT Academy BCN**).  
 Ready to start working and to keep on learning! 
 
 </br>
@@ -24,12 +24,15 @@ Ready to start working and to keep on learning!
 
 </br>
 
+**Currently learning:**
+
+</br>
 
 
+> ![JavaScript-logo](https://github.com/j-obiols/j-obiols/assets/127688372/7ac2a154-044b-4679-9ad0-66b1d8aa69d5)    ![vue](https://github.com/j-obiols/j-obiols/assets/127688372/8ad52fda-d589-4b67-8cbc-9087ac3110db)
 
 
-
-
+</br>
 
 #### How to reach me
 joana.obiols@gmail.com
