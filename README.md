@@ -1,7 +1,6 @@
 ## Hi, I'm Joana Obiols 
 
 **FULL STACK PHP** developer (**IT Academy BCN**).  
-Ready to start working and to keep on learning! 
 
 </br>
 
