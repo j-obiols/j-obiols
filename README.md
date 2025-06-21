@@ -1,6 +1,6 @@
 ## Hi, I'm Joana Obiols 
 
-**High School Mathematics Teacher** (**Generalitat de Catalunya. Departament d'Ensenyament**) 
+**High School Mathematics Teacher** (**Generalitat de Catalunya. Departament d'Educació**) 
 
 **Junior Full Stack PHP developer** (**IT Academy BCN**) 
 
