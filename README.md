@@ -1,6 +1,8 @@
 ## Hi, I'm Joana Obiols 
 
-**FULL STACK PHP** developer (**IT Academy BCN**).  
+**High School Mathematics Teacher** (**Generalitat de Catalunya. Departament d'Ensenyament**) 
+
+**Junior Full Stack PHP developer** (**IT Academy BCN**) 
 
 </br>
 
@@ -27,9 +29,7 @@
 
 </br>
 
-
-> ![JavaScript-logo](https://github.com/j-obiols/j-obiols/assets/127688372/7ac2a154-044b-4679-9ad0-66b1d8aa69d5)    ![vue](https://github.com/j-obiols/j-obiols/assets/127688372/8ad52fda-d589-4b67-8cbc-9087ac3110db)
-
+![python-logo](https://github.com/user-attachments/assets/a4764706-4512-40c7-b2ed-f03de144e956)
 
 </br>
 
